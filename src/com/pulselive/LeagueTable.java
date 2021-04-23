@@ -28,9 +28,9 @@ public class LeagueTable implements LeagueInterface{
     public void displayMenu() {
 
         while(true) {
-            System.out.println("***************************************** ");
+            System.out.println("*****************************************");
             System.out.println("League App: ");
-            System.out.println("***************************************** ");
+            System.out.println("*****************************************");
             System.out.println("Create new team and add it to league (press 1)");
             System.out.println("Delete existing team from league (press 2)");
             System.out.println("Display Statistics for team (press 3)");
